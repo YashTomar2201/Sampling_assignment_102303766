@@ -1,0 +1,6 @@
+Model,Sampling1,Sampling2,Sampling3,Sampling4,Sampling5
+M1_LogReg,92.0,91.0,93.0,96.2,97.0
+M2_DTree,96.0,98.0,99.0,98.73,97.0
+M3_RForest,99.0,99.0,100.0,100.0,100.0
+M4_SVM,94.0,95.0,97.0,97.47,99.0
+M5_KNN,87.0,95.0,95.0,93.67,91.0
